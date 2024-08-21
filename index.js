@@ -7,7 +7,6 @@ const logins = require("./routes/logins");
 const connectDB = require("./db/connect");
 const cors = require("cors");
 const cookieParser = require("cookie-parser");
-
 const corsOptions = {
   origin: ["https://markato-task.vercel.app", "http://localhost:5173"],
   credentials: true,
