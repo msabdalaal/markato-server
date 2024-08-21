@@ -2,7 +2,7 @@ const { Product } = require("../models/product");
 const getProducts = async (req, res) => {
   try {
     const products = await Product.find({});
-    res.status(201).json({ products, newEntity: {} });
+    res.status(201).json({ newList: products, newEntity: {} });
   } catch (error) {
     res.status(500).json({ msg: error });
   }
@@ -13,7 +13,7 @@ const addProduct = async (req, res) => {
   try {
     await Product.create(data);
     const products = await Product.find({});
-    res.status(201).json({ products, newEntity: data });
+    res.status(201).json({ newList: products, newEntity: data });
   } catch (error) {
     return res.status(500).json({ msg: error.message });
   }
@@ -28,7 +28,7 @@ const deleteProduct = async (req, res) => {
       return res.status(404).json({ message: "Product not found" });
     }
     const products = await Product.find({});
-    res.status(201).json({ products });
+    res.status(201).json({ newList: products });
   } catch (error) {
     return res.status(500).json({ msg: error });
   }
@@ -36,14 +36,14 @@ const deleteProduct = async (req, res) => {
 
 const UpdateProduct = async (req, res) => {
   const data = req.body;
-    const { id: productID } = req.params;
-    try {
+  const { id: productID } = req.params;
+  try {
     const product = await Product.findOneAndUpdate({ _id: productID }, data);
     if (!product) {
       return res.status(404).json({ message: "Product not found" });
     }
     const products = await Product.find({});
-    res.status(201).json({ products, newEntity: product });
+    res.status(201).json({ newList: products, newEntity: product });
   } catch (error) {
     return res.status(500).json({ msg: error });
   }

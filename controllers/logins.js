@@ -42,7 +42,7 @@ const loginUser = async (req, res) => {
 
 const deleteLogin = async (req, res) => {
   try {
-    res.cookie("jwt", "", { maxAge: 1 });
+    res.cookie("jwttask", "", { maxAge: 1 });
     res.status(201).json({ status: false, msg: "logged out succsess" });
   } catch (error) {
     return res.status(500).json({ msg: error });

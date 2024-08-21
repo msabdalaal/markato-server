@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const products = require("./routes/products");
 const users = require("./routes/users");
-// const sales = require("./routes/sales");
+const sales = require("./routes/sales");
 const logins = require("./routes/logins");
 const connectDB = require("./db/connect");
 const cors = require("cors");
@@ -23,7 +23,7 @@ app.use(cookieParser());
 
 app.use("/api/products", products);
 app.use("/api/users", users);
-// app.use("/api/sales", sales);
+app.use("/api/sales", sales);
 app.use("/api/login", logins);
 
 const port = process.env.PORT || 5000;
