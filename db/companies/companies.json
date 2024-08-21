@@ -1,0 +1,1023 @@
+[{
+  "_id": {
+    "$oid": "66c47d222d70cd9a317787d4"
+  },
+  "name": "River Computer Island",
+  "products": [
+    {
+      "name": "Smartphone XR",
+      "categoryID": "64bf2a7f4e8b123456789abc",
+      "description": "Latest model",
+      "price": "800",
+      "cost": "600",
+      "quantityInStock": 8,
+      "minimumStockLevel": 10,
+      "timesSold": 42,
+      "supplierID": "64cf3b8c4f9c123456789abc",
+      "barcode": "123456789012",
+      "imageURL": "https://i5.walmartimages.com/seo/Apple-iPhone-X-64GB-Unlocked-GSM-Phone-w-Dual-12MP-Camera-Space-Gray-B-Grade-Used_15c2b968-bb85-41a4-9292-b017f78fe797.a66ebbf32b6d53b6d6eb14c47434ac04.jpeg",
+      "_id": {
+        "$oid": "66baa8206a38271992877d83"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d84"
+      },
+      "name": "Laptop Pro 15",
+      "categoryID": "64bf2a7f4e8b123456789abc",
+      "description": "High-performance laptop for professionals.",
+      "price": "1200",
+      "cost": "900",
+      "quantityInStock": 4,
+      "minimumStockLevel": 5,
+      "timesSold": 27,
+      "supplierID": "64cf3b8c4f9c123456789abc",
+      "barcode": "123456789013",
+      "imageURL": "https://i5.walmartimages.com/seo/HP-Stream-14-Laptop-Intel-Celeron-N4000-4GB-SDRAM-32GB-eMMC-Office-365-1-yr-Brilliant-Black_d579aa66-7e24-4eb2-9686-521be769a755_2.09283250bd5d2a12834c2d4aaca652dd.jpeg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d85"
+      },
+      "name": "Organic Vitamin C",
+      "categoryID": "64bf2a7f4e8b23456789abcd",
+      "description": "Natural vitamin C supplement for boosting immunity.",
+      "price": "20",
+      "cost": "12",
+      "quantityInStock": 200,
+      "minimumStockLevel": 50,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c23456789abcd",
+      "barcode": "123456789014",
+      "imageURL": "https://i5.walmartimages.com/seo/Nature-Made-Chewable-Vitamin-C-500-mg-Tablets-Dietary-Supplement-70-Count_a8ae4d39-b362-48ba-b3b4-c89df26f4150.e1a8bd6183a4513754a715d56ce78b57.jpeg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d86"
+      },
+      "name": "Herbal Tea Mix",
+      "categoryID": "64bf2a7f4e8b23456789abcd",
+      "description": "A blend of organic herbs for a healthy lifestyle.",
+      "price": "15",
+      "cost": "8",
+      "quantityInStock": 150,
+      "minimumStockLevel": 30,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c23456789abcd",
+      "barcode": "123456789015",
+      "imageURL": "https://brodandtaylor.com/cdn/shop/articles/dehydrated-tea-thumb_1024x.jpg?v=1639765759"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d87"
+      },
+      "name": "Lab Microscope",
+      "categoryID": "64bf2a7f4e8b3456789abcde",
+      "description": "High-precision microscope for scientific research.",
+      "price": "500",
+      "cost": "350",
+      "quantityInStock": 19,
+      "minimumStockLevel": 5,
+      "timesSold": 2,
+      "supplierID": "64cf3b8c4f9c3456789abcde",
+      "barcode": "123456789016",
+      "imageURL": "https://5.imimg.com/data5/HW/YS/AI/SELLER-3788328/lab-microscope.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d88"
+      },
+      "name": "Chemical Reagents Set",
+      "categoryID": "64bf2a7f4e8b3456789abcde",
+      "description": "Set of essential chemical reagents for laboratory use.",
+      "price": "100",
+      "cost": "60",
+      "quantityInStock": 80,
+      "minimumStockLevel": 20,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c3456789abcde",
+      "barcode": "123456789017",
+      "imageURL": "https://5.imimg.com/data5/UM/PP/MY-9020004/cod-reagent-500x500.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d89"
+      },
+      "name": "Educational Software Suite",
+      "categoryID": "64bf2a7f4e8b456789abcdef",
+      "description": "Comprehensive software package for educational institutions.",
+      "price": "300",
+      "cost": "200",
+      "quantityInStock": 15,
+      "minimumStockLevel": 5,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c456789abcdef",
+      "barcode": "123456789018",
+      "imageURL": "https://www.teq.com/wp-content/uploads/2020/10/SLS-featured-image.png"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d8a"
+      },
+      "name": "Interactive Whiteboard",
+      "categoryID": "64bf2a7f4e8b456789abcdef",
+      "description": "Interactive whiteboard for enhanced classroom learning.",
+      "price": "800",
+      "cost": "600",
+      "quantityInStock": 10,
+      "minimumStockLevel": 2,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c456789abcdef",
+      "barcode": "123456789019",
+      "imageURL": "https://vibe.us/blog/interactive-whiteboard-what-is-it-and-what-does-it-do/cover_hue10e92cad5f9482adf1314f69bde6c61_282635_1280x0_resize_q90_h2_lanczos_3.3be5fa850dc9f98b3179b801ccdc760de3692078e7fe8e0aad220a9b32d258a1.webp"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d8b"
+      },
+      "name": "Tennis Racket",
+      "categoryID": "64bf2a7f4e8b56789abcdef0",
+      "description": "Professional tennis racket for competitive play.",
+      "price": "150",
+      "cost": "100",
+      "quantityInStock": 59,
+      "minimumStockLevel": 10,
+      "timesSold": 2,
+      "supplierID": "64cf3b8c4f9c56789abcdef0",
+      "barcode": "123456789020",
+      "imageURL": "https://www.directtennis.co.uk/images/extralarge/Bab_102435.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d8c"
+      },
+      "name": "Soccer Ball",
+      "categoryID": "64bf2a7f4e8b56789abcdef0",
+      "description": "Official size and weight soccer ball.",
+      "price": "25",
+      "cost": "15",
+      "quantityInStock": 100,
+      "minimumStockLevel": 20,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c56789abcdef0",
+      "barcode": "123456789021",
+      "imageURL": "https://m.media-amazon.com/images/I/61IkrxQ9p8L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d8d"
+      },
+      "name": "Streaming Media Player",
+      "categoryID": "64bf2a7f4e8b6789abcdef01",
+      "description": "HD streaming media player for all your entertainment needs.",
+      "price": "70",
+      "cost": "50",
+      "quantityInStock": 40,
+      "minimumStockLevel": 8,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c6789abcdef01",
+      "barcode": "123456789022",
+      "imageURL": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/51/835484/1.jpg?9454"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d8e"
+      },
+      "name": "Bluetooth Speaker",
+      "categoryID": "64bf2a7f4e8b6789abcdef01",
+      "description": "Portable Bluetooth speaker with excellent sound quality.",
+      "price": "30",
+      "cost": "20",
+      "quantityInStock": 69,
+      "minimumStockLevel": 10,
+      "timesSold": 2,
+      "supplierID": "64cf3b8c4f9c6789abcdef01",
+      "barcode": "123456789023",
+      "imageURL": "https://btech.com/media/catalog/product/7/1/71h-cpzgkhl._ac_sx569_.jpg?width=569&store=en&image-type=image"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d8f"
+      },
+      "name": "Accounting Software",
+      "categoryID": "64bf2a7f4e8b789abcdef012",
+      "description": "Comprehensive accounting software for businesses.",
+      "price": "400",
+      "cost": "300",
+      "quantityInStock": 25,
+      "minimumStockLevel": 5,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c789abcdef012",
+      "barcode": "123456789024",
+      "imageURL": "https://valueadders.com.au/wp-content/uploads/2022/03/Best-Accounting-Software-Australia.png"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d90"
+      },
+      "name": "Office Desk Set",
+      "categoryID": "64bf2a7f4e8b789abcdef012",
+      "description": "Modern office desk set with ergonomic design.",
+      "price": "700",
+      "cost": "500",
+      "quantityInStock": 10,
+      "minimumStockLevel": 2,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c789abcdef012",
+      "barcode": "123456789025",
+      "imageURL": "https://www.bestar.net/archive/product/item/images/8~11-Piece-Desk-Sets/0293HDY.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d91"
+      },
+      "name": "Travel Backpack",
+      "categoryID": "64bf2a7f4e8b89abcdef0123",
+      "description": "Durable travel backpack with multiple compartments.",
+      "price": "50",
+      "cost": "30",
+      "quantityInStock": 80,
+      "minimumStockLevel": 15,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c89abcdef0123",
+      "barcode": "123456789026",
+      "imageURL": "https://m.media-amazon.com/images/I/71W9-lwrdjL._AC_SL1500_.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d92"
+      },
+      "name": "Travel Guide Book",
+      "categoryID": "64bf2a7f4e8b89abcdef0123",
+      "description": "Comprehensive travel guide book for popular destinations.",
+      "price": "25",
+      "cost": "15",
+      "quantityInStock": 100,
+      "minimumStockLevel": 20,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c89abcdef0123",
+      "barcode": "123456789027",
+      "imageURL": "https://m.media-amazon.com/images/I/61qunNmMhyL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d93"
+      },
+      "name": "Gourmet Olive Oil",
+      "categoryID": "64bf2a7f4e8b9abcdef01234",
+      "description": "Premium extra virgin olive oil for gourmet cooking.",
+      "price": "20",
+      "cost": "12",
+      "quantityInStock": 200,
+      "minimumStockLevel": 50,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c9abcdef01234",
+      "barcode": "123456789028",
+      "imageURL": "https://madeinwashington.com/cdn/shop/products/8-08679-Walden-Lane-Gourmet-Garlic_Scallion_Olive_Oil.jpg?v=1619201748"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d94"
+      },
+      "name": "Gourmet Coffee Beans",
+      "categoryID": "64bf2a7f4e8b9abcdef01234",
+      "description": "High-quality coffee beans for a rich and smooth flavor.",
+      "price": "15",
+      "cost": "10",
+      "quantityInStock": 150,
+      "minimumStockLevel": 30,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c9abcdef01234",
+      "barcode": "123456789029",
+      "imageURL": "https://m.media-amazon.com/images/I/616svXJtlBL._SL1280_.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d95"
+      },
+      "name": "Luxury Bathrobe",
+      "categoryID": "64bf2a7f4e8b0abcdef01235",
+      "description": "Soft and luxurious bathrobe for ultimate comfort.",
+      "price": "100",
+      "cost": "70",
+      "quantityInStock": 50,
+      "minimumStockLevel": 10,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c0abcdef01235",
+      "barcode": "123456789030",
+      "imageURL": "https://i.etsystatic.com/6906788/r/il/f206c7/1774237632/il_570xN.1774237632_kh2s.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "66baa8206a38271992877d96"
+      },
+      "name": "Home Decor Set",
+      "categoryID": "64bf2a7f4e8b0abcdef01235",
+      "description": "Stylish home decor set to enhance your living space.",
+      "price": "150",
+      "cost": "100",
+      "quantityInStock": 40,
+      "minimumStockLevel": 8,
+      "timesSold": 1,
+      "supplierID": "64cf3b8c4f9c0abcdef01235",
+      "barcode": "123456789031",
+      "imageURL": "https://m.media-amazon.com/images/I/71XXDifnAPL._AC_UF894,1000_QL80_.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "_id": {
+        "$oid": "66c4af3282912f7980154752"
+      },
+      "name": "new sasa",
+      "description": "newPhones"
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b23456789abcd"
+      },
+      "name": "Health",
+      "description": "Categories related to health, wellness, and medical advancements."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b3456789abcde"
+      },
+      "name": "Science",
+      "description": "Categories related to scientific research and discoveries."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b456789abcdef"
+      },
+      "name": "Education",
+      "description": "Categories related to educational resources, schools, and learning materials."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b56789abcdef0"
+      },
+      "name": "Sports",
+      "description": "Categories related to various sports, competitions, and athletic events."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b6789abcdef01"
+      },
+      "name": "Entertainment",
+      "description": "Categories related to movies, music, and other forms of entertainment."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b789abcdef012"
+      },
+      "name": "Business",
+      "description": "Categories related to business, finance, and market trends."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b89abcdef0123"
+      },
+      "name": "Travel",
+      "description": "Categories related to travel destinations, tips, and experiences."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b9abcdef01234"
+      },
+      "name": "Food",
+      "description": "Categories related to culinary arts, recipes, and dining experiences."
+    },
+    {
+      "_id": {
+        "$oid": "64bf2a7f4e8b0abcdef01235"
+      },
+      "name": "Lifestyle",
+      "description": "Categories related to fashion, home decor, and daily living tips."
+    },
+    {
+      "_id": {
+        "$oid": "66c4a73fe828518759537e1c"
+      },
+      "name": "new phones",
+      "description": "newPhones"
+    },
+    {
+      "_id": {
+        "$oid": "66c4a7bf3db5845e51f1ff3a"
+      },
+      "name": "new laps",
+      "description": "newPhones"
+    },
+    {
+      "_id": {
+        "$oid": "66c4a7f91a0d8ae6f27eb3be"
+      },
+      "name": "new bees",
+      "description": "newPhones"
+    }
+  ],
+  "customers": [
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d6a"
+      },
+      "name": "Ahmed Hassan",
+      "phone": "01112345678",
+      "address": "Cairo, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d6b"
+      },
+      "name": "Mohamed Ali",
+      "phone": "01223456789",
+      "address": "Giza, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d6c"
+      },
+      "name": "Mona Ibrahim",
+      "phone": "01534567890",
+      "address": "Alexandria, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d6d"
+      },
+      "name": "Sara Youssef",
+      "phone": "01045678901",
+      "address": "Mansoura, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d6e"
+      },
+      "name": "Omar Kamal",
+      "phone": "01156789012",
+      "address": "Tanta, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d6f"
+      },
+      "name": "Nadia Fathy",
+      "phone": "01267890123",
+      "address": "Zagazig, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d70"
+      },
+      "name": "Hany Amr",
+      "phone": "01578901234",
+      "address": "Ismailia, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d71"
+      },
+      "name": "Eman Said",
+      "phone": "01089012345",
+      "address": "Port Said, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d72"
+      },
+      "name": "Khaled Sherif",
+      "phone": "01190123456",
+      "address": "Suez, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d73"
+      },
+      "name": "Yasmin Reda",
+      "phone": "01201234567",
+      "address": "Aswan, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d74"
+      },
+      "name": "Tarek Ahmed",
+      "phone": "01512345678",
+      "address": "Luxor, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d75"
+      },
+      "name": "Laila Mostafa",
+      "phone": "01023456789",
+      "address": "Damietta, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d76"
+      },
+      "name": "Walid Sami",
+      "phone": "01134567890",
+      "address": "Fayoum, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d77"
+      },
+      "name": "Amira Hassan",
+      "phone": "01245678901",
+      "address": "Minya, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d78"
+      },
+      "name": "Karim Nabil",
+      "phone": "01556789012",
+      "address": "Qena, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d79"
+      },
+      "name": "Reem Mohamed",
+      "phone": "01067890123",
+      "address": "Sohag, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d7a"
+      },
+      "name": "Hussein Osama",
+      "phone": "01178901234",
+      "address": "Beni Suef, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d7b"
+      },
+      "name": "Fatma Magdy",
+      "phone": "01289012345",
+      "address": "Hurghada, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d7c"
+      },
+      "name": "Sameh Adel",
+      "phone": "01590123456",
+      "address": "Sharm El Sheikh, Egypt"
+    },
+    {
+      "_id": {
+        "$oid": "66baa7246a38271992877d7d"
+      },
+      "name": "Nourhan Atef",
+      "phone": "01001234567",
+      "address": "New Cairo, Egypt"
+    }
+  ],
+  "employees": [
+    {
+      "_id": {
+        "$oid": "66c17570a96c62c42c302cfc"
+      },
+      "name": "Mohamed Sayed",
+      "email": "mohamed@gmail.com",
+      "phone": "01151134462",
+      "address": "october",
+      "jobTitle": "Admin",
+      "department": "Management",
+      "role": "admin",
+      "dateOfHire": "2024-08-18",
+      "salary": 20000,
+      "isActive": true,
+      "permissions": {
+        "Edit": true,
+        "View": true
+      },
+      "shiftSchedule": "night",
+      "password": "$2b$10$povrwqPsi/vWalR2.WVFPeQ0C1PGYixEhg0KuTeinzeIFbcH0w1EG",
+      "__v": 0,
+      "companyID": "66c47d222d70cd9a317787d4",
+      "companyName": "River Computer Island"
+    },
+    {
+      "_id": {
+        "$oid": "66c1deb19c3cbc552fa5ec8c"
+      },
+      "name": "ahmed khaled",
+      "email": "ahmed@gmail.com",
+      "phone": "01062682177",
+      "address": "october",
+      "jobTitle": "Manager",
+      "department": "Management",
+      "role": "manager",
+      "dateOfHire": "2024-08-18",
+      "salary": 20000,
+      "isActive": true,
+      "permissions": {
+        "Edit": false,
+        "View": true
+      },
+      "shiftSchedule": "night",
+      "password": "$2b$10$a8xEkPSA.aHduFrbm/lLZOAHL16nyfWGzWkls9MQnw85LV3D.NSg.",
+      "__v": 0,
+      "companyID": "66c47d222d70cd9a317787d4",
+      "companyName": "River Computer Island"
+    },
+    {
+      "_id": {
+        "$oid": "66c1eeae40289caf168fa5be"
+      },
+      "name": "abdo sayed",
+      "email": "abdo@gmail.com",
+      "phone": "01151736882",
+      "address": "october",
+      "jobTitle": "cashier",
+      "department": "cashier",
+      "role": "cashier",
+      "dateOfHire": "2024-08-18",
+      "salary": 20000,
+      "isActive": true,
+      "permissions": {
+        "Edit": false,
+        "View": false
+      },
+      "shiftSchedule": "night",
+      "password": "$2b$10$q60wWovX3nN.wb47/QLN4OsY35XM4FIoj6IhUc3mL3s3vFoPUL35W",
+      "__v": 0,
+      "companyID": "66c47d222d70cd9a317787d4",
+      "companyName": "River Computer Island"
+    }
+  ],
+  "refunds": [
+    {
+      "_id": {
+        "$oid": "66c35d6a1d509cf0c355a021"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c2687d5f207186b1f0bd86",
+      "items": [],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35d6b1d509cf0c355a024"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c2687d5f207186b1f0bd86",
+      "items": [],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35d71a68957186007e5b6"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c2687d5f207186b1f0bd86",
+      "items": [],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35dc7a68957186007e5bb"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c35d2a1d509cf0c355a01e",
+      "items": [],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35e7204de82dc3daaa262"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c2687d5f207186b1f0bd86",
+      "items": [],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35e9c04de82dc3daaa267"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c35e58a68957186007e5c0",
+      "items": [],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35ecc04de82dc3daaa26c"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c35e58a68957186007e5c0",
+      "items": [
+        {
+          "productID": "66baa8206a38271992877d87",
+          "quantity": 1,
+          "price": 500,
+          "total": 500,
+          "refundedQuantity": 1,
+          "totalRefund": 500
+        }
+      ],
+      "totalRefundAmount": 500,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35f4704de82dc3daaa271"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c35e58a68957186007e5c0",
+      "items": [],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c375271806ed67462df70a"
+      },
+      "date": "2024-08-19",
+      "saleID": "66c2687d5f207186b1f0bd86",
+      "items": [
+        {
+          "productID": "66baa8206a38271992877d83",
+          "quantity": 41,
+          "price": 800,
+          "total": 32800,
+          "refundedQuantity": 0,
+          "totalRefund": 0
+        }
+      ],
+      "totalRefundAmount": 0,
+      "__v": 0
+    },
+    {
+      "date": "2024-08-19",
+      "saleID": "66c2687d5f207186b1f0bd86",
+      "items": [
+        "blabla"
+      ],
+      "totalRefundAmount": 0,
+      "_id": {
+        "$oid": "66c4b65223af2e3b2ea4f4db"
+      }
+    }
+  ],
+  "sales": [
+    {
+      "_id": {
+        "$oid": "66c2687d5f207186b1f0bd86"
+      },
+      "date": "2024-08-19",
+      "customerID": "66baa7246a38271992877d6a",
+      "items": [
+        {
+          "productID": "66baa8206a38271992877d83",
+          "quantity": 41,
+          "price": 800,
+          "total": 32800,
+          "refundedQuantity": 0
+        }
+      ],
+      "subTotal": 32800,
+      "tax": 14,
+      "totalAmount": 37392,
+      "paymentMethod": "card",
+      "status": "Completed",
+      "cashierID": "66c17570a96c62c42c302cfc",
+      "isRefunded": true,
+      "refundID": "66c375271806ed67462df70a",
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c26903854093717be62726"
+      },
+      "date": "2024-08-19",
+      "customerID": "66baa7246a38271992877d6a",
+      "items": [
+        {
+          "productID": "66baa8206a38271992877d83",
+          "quantity": 41,
+          "price": 800,
+          "total": 32800
+        }
+      ],
+      "subTotal": 32800,
+      "tax": 14,
+      "totalAmount": 37392,
+      "paymentMethod": "cash",
+      "status": "Completed",
+      "cashierID": "66c17570a96c62c42c302cfc",
+      "isRefunded": false,
+      "refundID": "",
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c2712cadefd2b2475f02be"
+      },
+      "date": "2024-08-19",
+      "customerID": "66baa7246a38271992877d6a",
+      "items": [
+        {
+          "productID": "66baa8206a38271992877d84",
+          "quantity": 26,
+          "price": 1200,
+          "total": 31200
+        }
+      ],
+      "subTotal": 31200,
+      "tax": 14,
+      "totalAmount": 35568,
+      "paymentMethod": "cash",
+      "status": "Completed",
+      "cashierID": "66c17570a96c62c42c302cfc",
+      "isRefunded": false,
+      "refundID": "",
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "66c35d2a1d509cf0c355a01e"
+      },
+      "date": "2024-08-19",
+      "customerID": "66baa7246a38271992877d6b",
+      "items": [
+        {
+          "productID": "66baa8206a38271992877d8e",
+          "quantity": 1,
+          "price": 30,
+          "total": 30
+        }
+      ],
+      "subTotal": 30,
+      "tax": 14,
+      "totalAmount": 34.2,
+      "paymentMethod": "card",
+      "status": "Completed",
+      "cashierID": "66c17570a96c62c42c302cfc",
+      "isRefunded": true,
+      "refundID": "66c35dc7a68957186007e5bb",
+      "__v": 0
+    },
+    {
+      "date": "2024-08-20",
+      "customerID": "66baa7246a38271992877d6e",
+      "items": [
+        {
+          "productID": "66baa8206a38271992877d83",
+          "quantity": 1,
+          "price": 800,
+          "total": 800
+        }
+      ],
+      "subTotal": 800,
+      "tax": 14,
+      "totalAmount": 912,
+      "paymentMethod": "card",
+      "status": "Completed",
+      "cashierID": "66c17570a96c62c42c302cfc",
+      "isRefunded": false,
+      "refundID": "",
+      "_id": {
+        "$oid": "66c4e655deb65eb2d5fa8b58"
+      }
+    }
+  ],
+  "suppliers": [
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c123456789abc"
+      },
+      "name": "Tech Supplies Ltd",
+      "contactPerson": "John Doe",
+      "phone": "01151736882",
+      "email": "johndoe@techsupplies.com",
+      "address": "123 Tech Street, Silicon Valley, CA, USA",
+      "paymentTerms": "Net 30",
+      "notes": "Specializes in hardware and software supplies"
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c23456789abcd"
+      },
+      "name": "Healthy Life Distributors",
+      "contactPerson": "Jane Smith",
+      "phone": "+1-555-2345",
+      "email": "janesmith@healthylife.com",
+      "address": "456 Wellness Avenue, Austin, TX, USA",
+      "paymentTerms": "Net 45",
+      "notes": "Focus on organic health products."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c3456789abcde"
+      },
+      "name": "Science Solutions Inc.",
+      "contactPerson": "Dr. Alan Brown",
+      "phone": "+1-555-3456",
+      "email": "alanbrown@sciencesolutions.com",
+      "address": "789 Research Blvd, Cambridge, MA, USA",
+      "paymentTerms": "Net 60",
+      "notes": "Provides lab equipment and scientific research materials."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c456789abcdef"
+      },
+      "name": "EduResources Co.",
+      "contactPerson": "Emily White",
+      "phone": "+1-555-4567",
+      "email": "emilywhite@eduresources.com",
+      "address": "101 Learning Lane, Stanford, CA, USA",
+      "paymentTerms": "Net 30",
+      "notes": "Supplier of educational materials and software."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c56789abcdef0"
+      },
+      "name": "Sporting Goods World",
+      "contactPerson": "Michael Green",
+      "phone": "+1-555-5678",
+      "email": "michaelgreen@sportsgoods.com",
+      "address": "202 Athletic Road, Miami, FL, USA",
+      "paymentTerms": "Net 30",
+      "notes": "Distributes a wide range of sports equipment."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c6789abcdef01"
+      },
+      "name": "EntertainMe LLC",
+      "contactPerson": "Sarah Blue",
+      "phone": "+1-555-6789",
+      "email": "sarahblue@entertainme.com",
+      "address": "303 Movie Lane, Hollywood, CA, USA",
+      "paymentTerms": "Net 45",
+      "notes": "Specializes in media and entertainment products."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c789abcdef012"
+      },
+      "name": "BizWare Solutions",
+      "contactPerson": "Robert Black",
+      "phone": "+1-555-7890",
+      "email": "robertblack@bizware.com",
+      "address": "404 Market Street, New York, NY, USA",
+      "paymentTerms": "Net 30",
+      "notes": "Supplier of business software and tools."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c89abcdef0123"
+      },
+      "name": "TravelEasy Corp.",
+      "contactPerson": "Laura Silver",
+      "phone": "+1-555-8901",
+      "email": "laurasilver@traveleasy.com",
+      "address": "505 Destination Drive, Orlando, FL, USA",
+      "paymentTerms": "Net 60",
+      "notes": "Provides travel-related services and products."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c9abcdef01234"
+      },
+      "name": "Gourmet Foods Inc.",
+      "contactPerson": "Peter Gold",
+      "phone": "+1-555-9012",
+      "email": "petergold@gourmetfoods.com",
+      "address": "606 Culinary Blvd, New Orleans, LA, USA",
+      "paymentTerms": "Net 30",
+      "notes": "Supplier of fine foods and culinary ingredients."
+    },
+    {
+      "_id": {
+        "$oid": "64cf3b8c4f9c0abcdef01235"
+      },
+      "name": "Style & Comfort Ltd.",
+      "contactPerson": "Anna Rose",
+      "phone": "+1-555-0123",
+      "email": "annarose@stylecomfort.com",
+      "address": "707 Fashion Street, Paris, France",
+      "paymentTerms": "Net 30",
+      "notes": "Distributes lifestyle and fashion products."
+    }
+  ],
+  "notifications": []
+}]

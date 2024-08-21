@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "64cf3b8c4f9c123456789abc"
+  },
+  "name": "Tech Supplies Ltd",
+  "contactPerson": "John Doe",
+  "phone": "01151736882",
+  "email": "johndoe@techsupplies.com",
+  "address": "123 Tech Street, Silicon Valley, CA, USA",
+  "paymentTerms": "Net 30",
+  "notes": "Specializes in hardware and software supplies"
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c23456789abcd"
+  },
+  "name": "Healthy Life Distributors",
+  "contactPerson": "Jane Smith",
+  "phone": "+1-555-2345",
+  "email": "janesmith@healthylife.com",
+  "address": "456 Wellness Avenue, Austin, TX, USA",
+  "paymentTerms": "Net 45",
+  "notes": "Focus on organic health products."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c3456789abcde"
+  },
+  "name": "Science Solutions Inc.",
+  "contactPerson": "Dr. Alan Brown",
+  "phone": "+1-555-3456",
+  "email": "alanbrown@sciencesolutions.com",
+  "address": "789 Research Blvd, Cambridge, MA, USA",
+  "paymentTerms": "Net 60",
+  "notes": "Provides lab equipment and scientific research materials."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c456789abcdef"
+  },
+  "name": "EduResources Co.",
+  "contactPerson": "Emily White",
+  "phone": "+1-555-4567",
+  "email": "emilywhite@eduresources.com",
+  "address": "101 Learning Lane, Stanford, CA, USA",
+  "paymentTerms": "Net 30",
+  "notes": "Supplier of educational materials and software."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c56789abcdef0"
+  },
+  "name": "Sporting Goods World",
+  "contactPerson": "Michael Green",
+  "phone": "+1-555-5678",
+  "email": "michaelgreen@sportsgoods.com",
+  "address": "202 Athletic Road, Miami, FL, USA",
+  "paymentTerms": "Net 30",
+  "notes": "Distributes a wide range of sports equipment."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c6789abcdef01"
+  },
+  "name": "EntertainMe LLC",
+  "contactPerson": "Sarah Blue",
+  "phone": "+1-555-6789",
+  "email": "sarahblue@entertainme.com",
+  "address": "303 Movie Lane, Hollywood, CA, USA",
+  "paymentTerms": "Net 45",
+  "notes": "Specializes in media and entertainment products."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c789abcdef012"
+  },
+  "name": "BizWare Solutions",
+  "contactPerson": "Robert Black",
+  "phone": "+1-555-7890",
+  "email": "robertblack@bizware.com",
+  "address": "404 Market Street, New York, NY, USA",
+  "paymentTerms": "Net 30",
+  "notes": "Supplier of business software and tools."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c89abcdef0123"
+  },
+  "name": "TravelEasy Corp.",
+  "contactPerson": "Laura Silver",
+  "phone": "+1-555-8901",
+  "email": "laurasilver@traveleasy.com",
+  "address": "505 Destination Drive, Orlando, FL, USA",
+  "paymentTerms": "Net 60",
+  "notes": "Provides travel-related services and products."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c9abcdef01234"
+  },
+  "name": "Gourmet Foods Inc.",
+  "contactPerson": "Peter Gold",
+  "phone": "+1-555-9012",
+  "email": "petergold@gourmetfoods.com",
+  "address": "606 Culinary Blvd, New Orleans, LA, USA",
+  "paymentTerms": "Net 30",
+  "notes": "Supplier of fine foods and culinary ingredients."
+},
+{
+  "_id": {
+    "$oid": "64cf3b8c4f9c0abcdef01235"
+  },
+  "name": "Style & Comfort Ltd.",
+  "contactPerson": "Anna Rose",
+  "phone": "+1-555-0123",
+  "email": "annarose@stylecomfort.com",
+  "address": "707 Fashion Street, Paris, France",
+  "paymentTerms": "Net 30",
+  "notes": "Distributes lifestyle and fashion products."
+}]

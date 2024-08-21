@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "66baa8206a38271992877d83"
+  },
+  "name": "Smartphone X",
+  "categoryID": "64bf2a7f4e8b123456789abc",
+  "description": "Latest model of Smartphone X with cutting-edge technology.",
+  "price": "800",
+  "cost": "600",
+  "quantityInStock": 9,
+  "minimumStockLevel": 10,
+  "timesSold": 41,
+  "supplierID": "64cf3b8c4f9c123456789abc",
+  "barcode": "123456789012",
+  "imageURL": "https://i5.walmartimages.com/seo/Apple-iPhone-X-64GB-Unlocked-GSM-Phone-w-Dual-12MP-Camera-Space-Gray-B-Grade-Used_15c2b968-bb85-41a4-9292-b017f78fe797.a66ebbf32b6d53b6d6eb14c47434ac04.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d84"
+  },
+  "name": "Laptop Pro 15",
+  "categoryID": "64bf2a7f4e8b123456789abc",
+  "description": "High-performance laptop for professionals.",
+  "price": "1200",
+  "cost": "900",
+  "quantityInStock": 4,
+  "minimumStockLevel": 5,
+  "timesSold": 27,
+  "supplierID": "64cf3b8c4f9c123456789abc",
+  "barcode": "123456789013",
+  "imageURL": "https://i5.walmartimages.com/seo/HP-Stream-14-Laptop-Intel-Celeron-N4000-4GB-SDRAM-32GB-eMMC-Office-365-1-yr-Brilliant-Black_d579aa66-7e24-4eb2-9686-521be769a755_2.09283250bd5d2a12834c2d4aaca652dd.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d85"
+  },
+  "name": "Organic Vitamin C",
+  "categoryID": "64bf2a7f4e8b23456789abcd",
+  "description": "Natural vitamin C supplement for boosting immunity.",
+  "price": "20",
+  "cost": "12",
+  "quantityInStock": 200,
+  "minimumStockLevel": 50,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c23456789abcd",
+  "barcode": "123456789014",
+  "imageURL": "https://i5.walmartimages.com/seo/Nature-Made-Chewable-Vitamin-C-500-mg-Tablets-Dietary-Supplement-70-Count_a8ae4d39-b362-48ba-b3b4-c89df26f4150.e1a8bd6183a4513754a715d56ce78b57.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d86"
+  },
+  "name": "Herbal Tea Mix",
+  "categoryID": "64bf2a7f4e8b23456789abcd",
+  "description": "A blend of organic herbs for a healthy lifestyle.",
+  "price": "15",
+  "cost": "8",
+  "quantityInStock": 150,
+  "minimumStockLevel": 30,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c23456789abcd",
+  "barcode": "123456789015",
+  "imageURL": "https://brodandtaylor.com/cdn/shop/articles/dehydrated-tea-thumb_1024x.jpg?v=1639765759"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d87"
+  },
+  "name": "Lab Microscope",
+  "categoryID": "64bf2a7f4e8b3456789abcde",
+  "description": "High-precision microscope for scientific research.",
+  "price": "500",
+  "cost": "350",
+  "quantityInStock": 19,
+  "minimumStockLevel": 5,
+  "timesSold": 2,
+  "supplierID": "64cf3b8c4f9c3456789abcde",
+  "barcode": "123456789016",
+  "imageURL": "https://5.imimg.com/data5/HW/YS/AI/SELLER-3788328/lab-microscope.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d88"
+  },
+  "name": "Chemical Reagents Set",
+  "categoryID": "64bf2a7f4e8b3456789abcde",
+  "description": "Set of essential chemical reagents for laboratory use.",
+  "price": "100",
+  "cost": "60",
+  "quantityInStock": 80,
+  "minimumStockLevel": 20,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c3456789abcde",
+  "barcode": "123456789017",
+  "imageURL": "https://5.imimg.com/data5/UM/PP/MY-9020004/cod-reagent-500x500.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d89"
+  },
+  "name": "Educational Software Suite",
+  "categoryID": "64bf2a7f4e8b456789abcdef",
+  "description": "Comprehensive software package for educational institutions.",
+  "price": "300",
+  "cost": "200",
+  "quantityInStock": 15,
+  "minimumStockLevel": 5,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c456789abcdef",
+  "barcode": "123456789018",
+  "imageURL": "https://www.teq.com/wp-content/uploads/2020/10/SLS-featured-image.png"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d8a"
+  },
+  "name": "Interactive Whiteboard",
+  "categoryID": "64bf2a7f4e8b456789abcdef",
+  "description": "Interactive whiteboard for enhanced classroom learning.",
+  "price": "800",
+  "cost": "600",
+  "quantityInStock": 10,
+  "minimumStockLevel": 2,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c456789abcdef",
+  "barcode": "123456789019",
+  "imageURL": "https://vibe.us/blog/interactive-whiteboard-what-is-it-and-what-does-it-do/cover_hue10e92cad5f9482adf1314f69bde6c61_282635_1280x0_resize_q90_h2_lanczos_3.3be5fa850dc9f98b3179b801ccdc760de3692078e7fe8e0aad220a9b32d258a1.webp"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d8b"
+  },
+  "name": "Tennis Racket",
+  "categoryID": "64bf2a7f4e8b56789abcdef0",
+  "description": "Professional tennis racket for competitive play.",
+  "price": "150",
+  "cost": "100",
+  "quantityInStock": 59,
+  "minimumStockLevel": 10,
+  "timesSold": 2,
+  "supplierID": "64cf3b8c4f9c56789abcdef0",
+  "barcode": "123456789020",
+  "imageURL": "https://www.directtennis.co.uk/images/extralarge/Bab_102435.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d8c"
+  },
+  "name": "Soccer Ball",
+  "categoryID": "64bf2a7f4e8b56789abcdef0",
+  "description": "Official size and weight soccer ball.",
+  "price": "25",
+  "cost": "15",
+  "quantityInStock": 100,
+  "minimumStockLevel": 20,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c56789abcdef0",
+  "barcode": "123456789021",
+  "imageURL": "https://m.media-amazon.com/images/I/61IkrxQ9p8L._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d8d"
+  },
+  "name": "Streaming Media Player",
+  "categoryID": "64bf2a7f4e8b6789abcdef01",
+  "description": "HD streaming media player for all your entertainment needs.",
+  "price": "70",
+  "cost": "50",
+  "quantityInStock": 40,
+  "minimumStockLevel": 8,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c6789abcdef01",
+  "barcode": "123456789022",
+  "imageURL": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/51/835484/1.jpg?9454"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d8e"
+  },
+  "name": "Bluetooth Speaker",
+  "categoryID": "64bf2a7f4e8b6789abcdef01",
+  "description": "Portable Bluetooth speaker with excellent sound quality.",
+  "price": "30",
+  "cost": "20",
+  "quantityInStock": 69,
+  "minimumStockLevel": 10,
+  "timesSold": 2,
+  "supplierID": "64cf3b8c4f9c6789abcdef01",
+  "barcode": "123456789023",
+  "imageURL": "https://btech.com/media/catalog/product/7/1/71h-cpzgkhl._ac_sx569_.jpg?width=569&store=en&image-type=image"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d8f"
+  },
+  "name": "Accounting Software",
+  "categoryID": "64bf2a7f4e8b789abcdef012",
+  "description": "Comprehensive accounting software for businesses.",
+  "price": "400",
+  "cost": "300",
+  "quantityInStock": 25,
+  "minimumStockLevel": 5,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c789abcdef012",
+  "barcode": "123456789024",
+  "imageURL": "https://valueadders.com.au/wp-content/uploads/2022/03/Best-Accounting-Software-Australia.png"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d90"
+  },
+  "name": "Office Desk Set",
+  "categoryID": "64bf2a7f4e8b789abcdef012",
+  "description": "Modern office desk set with ergonomic design.",
+  "price": "700",
+  "cost": "500",
+  "quantityInStock": 10,
+  "minimumStockLevel": 2,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c789abcdef012",
+  "barcode": "123456789025",
+  "imageURL": "https://www.bestar.net/archive/product/item/images/8~11-Piece-Desk-Sets/0293HDY.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d91"
+  },
+  "name": "Travel Backpack",
+  "categoryID": "64bf2a7f4e8b89abcdef0123",
+  "description": "Durable travel backpack with multiple compartments.",
+  "price": "50",
+  "cost": "30",
+  "quantityInStock": 80,
+  "minimumStockLevel": 15,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c89abcdef0123",
+  "barcode": "123456789026",
+  "imageURL": "https://m.media-amazon.com/images/I/71W9-lwrdjL._AC_SL1500_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d92"
+  },
+  "name": "Travel Guide Book",
+  "categoryID": "64bf2a7f4e8b89abcdef0123",
+  "description": "Comprehensive travel guide book for popular destinations.",
+  "price": "25",
+  "cost": "15",
+  "quantityInStock": 100,
+  "minimumStockLevel": 20,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c89abcdef0123",
+  "barcode": "123456789027",
+  "imageURL": "https://m.media-amazon.com/images/I/61qunNmMhyL._AC_UF1000,1000_QL80_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d93"
+  },
+  "name": "Gourmet Olive Oil",
+  "categoryID": "64bf2a7f4e8b9abcdef01234",
+  "description": "Premium extra virgin olive oil for gourmet cooking.",
+  "price": "20",
+  "cost": "12",
+  "quantityInStock": 200,
+  "minimumStockLevel": 50,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c9abcdef01234",
+  "barcode": "123456789028",
+  "imageURL": "https://madeinwashington.com/cdn/shop/products/8-08679-Walden-Lane-Gourmet-Garlic_Scallion_Olive_Oil.jpg?v=1619201748"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d94"
+  },
+  "name": "Gourmet Coffee Beans",
+  "categoryID": "64bf2a7f4e8b9abcdef01234",
+  "description": "High-quality coffee beans for a rich and smooth flavor.",
+  "price": "15",
+  "cost": "10",
+  "quantityInStock": 150,
+  "minimumStockLevel": 30,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c9abcdef01234",
+  "barcode": "123456789029",
+  "imageURL": "https://m.media-amazon.com/images/I/616svXJtlBL._SL1280_.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d95"
+  },
+  "name": "Luxury Bathrobe",
+  "categoryID": "64bf2a7f4e8b0abcdef01235",
+  "description": "Soft and luxurious bathrobe for ultimate comfort.",
+  "price": "100",
+  "cost": "70",
+  "quantityInStock": 50,
+  "minimumStockLevel": 10,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c0abcdef01235",
+  "barcode": "123456789030",
+  "imageURL": "https://i.etsystatic.com/6906788/r/il/f206c7/1774237632/il_570xN.1774237632_kh2s.jpg"
+},
+{
+  "_id": {
+    "$oid": "66baa8206a38271992877d96"
+  },
+  "name": "Home Decor Set",
+  "categoryID": "64bf2a7f4e8b0abcdef01235",
+  "description": "Stylish home decor set to enhance your living space.",
+  "price": "150",
+  "cost": "100",
+  "quantityInStock": 40,
+  "minimumStockLevel": 8,
+  "timesSold": 1,
+  "supplierID": "64cf3b8c4f9c0abcdef01235",
+  "barcode": "123456789031",
+  "imageURL": "https://m.media-amazon.com/images/I/71XXDifnAPL._AC_UF894,1000_QL80_.jpg"
+}]
