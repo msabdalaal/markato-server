@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64bf2a7f4e8b123456789abc"
+  },
+  "name": "Technology",
+  "description": "Categories related to the latest technological advancements and gadgets."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b23456789abcd"
+  },
+  "name": "Health",
+  "description": "Categories related to health, wellness, and medical advancements."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b3456789abcde"
+  },
+  "name": "Science",
+  "description": "Categories related to scientific research and discoveries."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b456789abcdef"
+  },
+  "name": "Education",
+  "description": "Categories related to educational resources, schools, and learning materials."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b56789abcdef0"
+  },
+  "name": "Sports",
+  "description": "Categories related to various sports, competitions, and athletic events."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b6789abcdef01"
+  },
+  "name": "Entertainment",
+  "description": "Categories related to movies, music, and other forms of entertainment."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b789abcdef012"
+  },
+  "name": "Business",
+  "description": "Categories related to business, finance, and market trends."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b89abcdef0123"
+  },
+  "name": "Travel",
+  "description": "Categories related to travel destinations, tips, and experiences."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b9abcdef01234"
+  },
+  "name": "Food",
+  "description": "Categories related to culinary arts, recipes, and dining experiences."
+},
+{
+  "_id": {
+    "$oid": "64bf2a7f4e8b0abcdef01235"
+  },
+  "name": "Lifestyle",
+  "description": "Categories related to fashion, home decor, and daily living tips."
+}]

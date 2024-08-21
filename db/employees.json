@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "66c17570a96c62c42c302cfc"
+  },
+  "name": "Mohamed Sayed",
+  "email": "mohamed@gmail.com",
+  "phone": "01151134462",
+  "address": "october",
+  "jobTitle": "Admin",
+  "department": "Management",
+  "role": "admin",
+  "dateOfHire": "2024-08-18",
+  "salary": 20000,
+  "isActive": true,
+  "permissions": {
+    "Edit": true,
+    "View": true
+  },
+  "shiftSchedule": "night",
+  "password": "$2b$10$povrwqPsi/vWalR2.WVFPeQ0C1PGYixEhg0KuTeinzeIFbcH0w1EG",
+  "__v": 0,
+  "companyID": "66c47d222d70cd9a317787d4"
+},
+{
+  "_id": {
+    "$oid": "66c1deb19c3cbc552fa5ec8c"
+  },
+  "name": "ahmed khaled",
+  "email": "ahmed@gmail.com",
+  "phone": "01062682177",
+  "address": "october",
+  "jobTitle": "Manager",
+  "department": "Management",
+  "role": "manager",
+  "dateOfHire": "2024-08-18",
+  "salary": 20000,
+  "isActive": true,
+  "permissions": {
+    "Edit": false,
+    "View": true
+  },
+  "shiftSchedule": "night",
+  "password": "$2b$10$a8xEkPSA.aHduFrbm/lLZOAHL16nyfWGzWkls9MQnw85LV3D.NSg.",
+  "__v": 0,
+  "companyID": "66c47d222d70cd9a317787d4"
+},
+{
+  "_id": {
+    "$oid": "66c1eeae40289caf168fa5be"
+  },
+  "name": "abdo sayed",
+  "email": "abdo@gmail.com",
+  "phone": "01151736882",
+  "address": "october",
+  "jobTitle": "cashier",
+  "department": "cashier",
+  "role": "cashier",
+  "dateOfHire": "2024-08-18",
+  "salary": 20000,
+  "isActive": true,
+  "permissions": {
+    "Edit": false,
+    "View": false
+  },
+  "shiftSchedule": "night",
+  "password": "$2b$10$q60wWovX3nN.wb47/QLN4OsY35XM4FIoj6IhUc3mL3s3vFoPUL35W",
+  "__v": 0,
+  "companyID": "66c47d222d70cd9a317787d4"
+}]
