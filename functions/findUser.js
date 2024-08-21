@@ -1,22 +1,15 @@
-// const { Company } = require("../models/company");
+const { User } = require("../models/user");
 
-// const findUserByEmail = async (email) => {
-//   const employees = await Company.find({}).select("employees");
-//   const userFind = employees.map((company) => {
-//     return company.employees.map((employee) => {
-//       if (employee.email === email) return employee;
-//     });
-//   });
-//   const userLogging = userFind[0][0];
-//   return userLogging;
-// };
+const findUserByEmail = async (email) => {
+  const user = await User.find({ email: email });
 
-// const findUserByID = async (id) => {
-//   const employees = await Company.find({}).select("employees");
-//   const userFound = employees
-//     .flatMap((company) => company.employees)
-//     .find((employee) => employee.id === id);
-//   return userFound;
-// };
+  return user;
+};
 
-// module.exports = { findUserByID, findUserByEmail };
+const findUserByID = async (id) => {
+  const user = await Company.find({ _id: id });
+
+  return user;
+};
+
+module.exports = { findUserByID, findUserByEmail };
